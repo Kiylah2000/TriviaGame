@@ -55,6 +55,7 @@ const quizQuestions = [
 const funImages = [
     "./Assets/Images/giphy2.gif",
     "./Assets/Images/giphy3.gif",
+    "./Assets/Images/giphy8.gif",
 ];
 
 const sadImages = [

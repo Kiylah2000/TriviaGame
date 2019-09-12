@@ -1,6 +1,35 @@
 .answers {
     border: 1px solid lightgrey;
-    padding: 10px;
-    border-radius: 4px;
+    /* padding: 2px; */
+    border-radius: 15px;
     cursor: pointer;
 }
+
+body {
+    text-align: center;
+    background-size: 100%;
+    background-repeat: no-repeat;
+    background-image: URL("../Images/background-design-with-colorful-triangle-shapes-vector-18048180.jpg");
+}
+
+h1 {
+    color: black;
+}
+
+.container2 {
+    margin-top: 100px;
+    /* background-size: 100%; */
+    border: 2px solid black;
+}
+
+.container1 {
+    margin-top: 355px;
+   
+}
+
+p {
+    display: block;
+}
+
+
+
